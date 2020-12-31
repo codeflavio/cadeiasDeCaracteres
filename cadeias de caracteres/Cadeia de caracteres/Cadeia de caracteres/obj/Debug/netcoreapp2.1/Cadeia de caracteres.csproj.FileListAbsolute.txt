@@ -1,0 +1,10 @@
+D:\VISUAL STUDIO\CURSO C#\cadeias de caracteres\cadeias de caracteres\Cadeia de caracteres\Cadeia de caracteres\bin\Debug\netcoreapp2.1\Cadeia de caracteres.deps.json
+D:\VISUAL STUDIO\CURSO C#\cadeias de caracteres\cadeias de caracteres\Cadeia de caracteres\Cadeia de caracteres\bin\Debug\netcoreapp2.1\Cadeia de caracteres.runtimeconfig.json
+D:\VISUAL STUDIO\CURSO C#\cadeias de caracteres\cadeias de caracteres\Cadeia de caracteres\Cadeia de caracteres\bin\Debug\netcoreapp2.1\Cadeia de caracteres.runtimeconfig.dev.json
+D:\VISUAL STUDIO\CURSO C#\cadeias de caracteres\cadeias de caracteres\Cadeia de caracteres\Cadeia de caracteres\bin\Debug\netcoreapp2.1\Cadeia de caracteres.dll
+D:\VISUAL STUDIO\CURSO C#\cadeias de caracteres\cadeias de caracteres\Cadeia de caracteres\Cadeia de caracteres\bin\Debug\netcoreapp2.1\Cadeia de caracteres.pdb
+D:\VISUAL STUDIO\CURSO C#\cadeias de caracteres\cadeias de caracteres\Cadeia de caracteres\Cadeia de caracteres\obj\Debug\netcoreapp2.1\Cadeia de caracteres.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\CURSO C#\cadeias de caracteres\cadeias de caracteres\Cadeia de caracteres\Cadeia de caracteres\obj\Debug\netcoreapp2.1\Cadeia de caracteres.AssemblyInfoInputs.cache
+D:\VISUAL STUDIO\CURSO C#\cadeias de caracteres\cadeias de caracteres\Cadeia de caracteres\Cadeia de caracteres\obj\Debug\netcoreapp2.1\Cadeia de caracteres.AssemblyInfo.cs
+D:\VISUAL STUDIO\CURSO C#\cadeias de caracteres\cadeias de caracteres\Cadeia de caracteres\Cadeia de caracteres\obj\Debug\netcoreapp2.1\Cadeia de caracteres.dll
+D:\VISUAL STUDIO\CURSO C#\cadeias de caracteres\cadeias de caracteres\Cadeia de caracteres\Cadeia de caracteres\obj\Debug\netcoreapp2.1\Cadeia de caracteres.pdb

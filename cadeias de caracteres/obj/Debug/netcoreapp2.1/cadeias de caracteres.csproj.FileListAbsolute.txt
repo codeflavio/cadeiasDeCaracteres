@@ -1,0 +1,4 @@
+D:\VISUAL STUDIO\CURSO C#\cadeias de caracteres\cadeias de caracteres\obj\Debug\netcoreapp2.1\cadeias de caracteres.csprojAssemblyReference.cache
+D:\VISUAL STUDIO\CURSO C#\cadeias de caracteres\cadeias de caracteres\obj\Debug\netcoreapp2.1\cadeias de caracteres.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\CURSO C#\cadeias de caracteres\cadeias de caracteres\obj\Debug\netcoreapp2.1\cadeias de caracteres.AssemblyInfoInputs.cache
+D:\VISUAL STUDIO\CURSO C#\cadeias de caracteres\cadeias de caracteres\obj\Debug\netcoreapp2.1\cadeias de caracteres.AssemblyInfo.cs
